@@ -1,0 +1,24 @@
+{
+  "name": "mypack",
+  "version": "1.0.0",
+  "description": "It's an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sapna-Dixit/nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sapna-Dixit/nodeJS/issues"
+  },
+  "homepage": "https://github.com/Sapna-Dixit/nodeJS#readme",
+  "dependencies": {
+    "@angular/cli": "^12.2.12",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
